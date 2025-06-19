@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dariusz-piekarz
-- 👀 I’m interested in programming in Python, C and C++ and combination of those languages. In particular, in creation of new libraries and modules (Python, C, C++), boosting by different methods (concurrency, C API, pybind11, async).
-- 🌱 I’m currently learning asynchronous programming in Python, and exploring more advanced concepts than basics in C/C++ (like concurrency, mappings etc.).
+- 👀 I’m interested in programming in Python, C and C++ and combination of those languages. I am interested in their application to data analysis and processing, moreover to image / audio and video processing.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dariusz-piekarz/)
 
 
